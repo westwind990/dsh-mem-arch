@@ -9,6 +9,15 @@ Welcome to the comprehensive documentation for MCP Memory Service - a Model Cont
 - **Docker Users**: Check out [Docker Deployment](deployment/docker.md)
 - **Troubleshooting**: Visit [General Troubleshooting](troubleshooting/general.md)
 
+## Starting the Server
+
+```bash
+memory launch
+```
+
+Starts the HTTP server and web dashboard in the background at <http://127.0.0.1:8000>.
+See [HTTP Server Management](http-server-management.md).
+
 ## Documentation Structure
 
 ### 📦 Installation & Setup
